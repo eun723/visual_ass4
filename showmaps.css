@@ -1,0 +1,17 @@
+path { stroke-linecap:round; stroke-linejoin:round;
+}
+
+svg#legendsForKoreaMap { width: 130px; height: 60px; border: 0; margin: 0; padding: 0;
+ position: absolute; top: 20px; left: 450px; border-radius: 0px;
+ background: rgba(255, 255, 255, 0.6);
+}
+svg#legendsForKoreaMap text {
+ fill: #000000; stroke: #000000; font-family: "Nanum Gothic";
+ font-size: 10px; text-anchor: left; font-weight: bold; stroke-width: 0;
+}
+#mapShow path {fill: #dbece3; stroke: #dbece3; stroke-width: 0.5px;
+}
+#koreaMap #road path { fill: none; stroke: #415e50; stroke-width: 3px; opacity: 0.5;
+}
+#koreaMap #maps #path-99 { fill: #eeffff;
+}
